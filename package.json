@@ -5,7 +5,7 @@
   "main": "skycons.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sofdesk/skycons.git"
+    "url": "https://github.com/megabytemb/skycons.git"
   },
   "keywords": [
     "icons",
@@ -14,7 +14,7 @@
   "author": "darkskyapp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sofdesk/skycons/issues"
+    "url": "https://github.com/megabytemb/skycons/issues"
   },
-  "homepage": "https://github.com/Sofdesk/skycons"
+  "homepage": "https://github.com/megabytemb/skycons"
 }
